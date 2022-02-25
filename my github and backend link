@@ -1,0 +1,7 @@
+source code:
+frontend = https://github.com/harinks/webScrapping-frontend,
+backend = https://github.com/harinks/webScrapping-backend
+
+deploy link:
+frontend = https://sad-mclean-9a678e.netlify.app,
+backend = https://webscrapper-backend.herokuapp.com/products
