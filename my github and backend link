@@ -1,6 +1,6 @@
 source code:
-frontend = https://github.com/harinks/webScrapping-frontend,
-backend = https://github.com/harinks/webScrapping-backend
+frontend = https://github.com/harinks/webScrapping-frontend.git,
+backend = https://github.com/harinks/webScrapping-backend.git
 
 deploy link:
 frontend = https://sad-mclean-9a678e.netlify.app,
